@@ -2,12 +2,13 @@
 
 <p align="center">
   <img src="https://github.com/gavin-bauer/earth-vital-signs/blob/master/assets/img/demo.gif?raw=1" hspace="4">
-  
 </p>
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/gavin-bauer/earth-vital-signs">
-
+  <a href="https://earth-vital-signs-f2ec.onrender.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/website-live-brightgreen">
+  </a>
 </p>
 
 ---
